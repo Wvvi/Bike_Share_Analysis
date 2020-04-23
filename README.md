@@ -14,5 +14,15 @@
 
 可视化分享：其内容在 pdf 文件里，我使用了tableau desktop 这个软件制作的。这是一个上手简单，功能强大的可视化软件。学生免费哦！
 
-![](/Bike_Share_Analysis/pictures/0001.jpg)
+![0001](pictures/0001.jpg)
+
+![0002](pictures/0002.jpg)
+
+![0003](pictures/0003.jpg)
+
+![0004](pictures/0004.jpg)
+
+![0005](pictures/0005.jpg)
+
+![0006](pictures/0006.jpg)
 
